@@ -1,5 +1,5 @@
 from traffic_environment import TrafficEnvironment
-from dueling_dqn import Agent
+from dqn import Agent
 import torch
 import matplotlib.pyplot as plt
 
